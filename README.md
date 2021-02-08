@@ -35,7 +35,7 @@ iOS
 
 iOS
 
-**Senior Software Quality Assurance Engineer - Mobile** @ Symantec _(Jan 2014 - Mar 2016)
+**Senior Software Quality Assurance Engineer - Mobile** @ Symantec _(Jan 2014 - Mar 2016)_
 
 iOS / Android 
 

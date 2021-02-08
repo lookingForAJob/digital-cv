@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+<link href="style.css" rel="stylesheet"></link>
 
-You can use the [editor on GitHub](https://github.com/lookingForAJob/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Ryosuke Onaka
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_iOS Developer based in Los Angeles, CA_
 
-### Markdown
+[Email](mailto:ryosuke+job@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ryosuke-onaka-395356205/) / [GitHub](https://github.com/lookingForAJob)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Areas of Expertise
 
-```markdown
-Syntax highlighted code block
+<button class="btn">iOS Development</button>
+<button class="btn">Scrum and Agile Methodologies</button>
 
-# Header 1
-## Header 2
-### Header 3
+## Programming Languages
 
-- Bulleted
-- List
+<button class="btn">Swift</button>
+<button class="btn">Objective-C</button>
+<button class="btn">C++</button>
 
-1. Numbered
-2. List
+## Tools and Technologies
 
-**Bold** and _Italic_ and `Code` text
+<button class="btn">Git</button>
+<button class="btn">Jenkins</button>
+<button class="btn">RxSwift</button>
+<button class="btn">Swinject</button>
+<button class="btn">XCode</button>
 
-[Link](url) and ![Image](src)
-```
+## Work Experience
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Senior Software Engineer** @ NortonLifeLock _(Nov 2019 - Mar 2021)_
 
-### Jekyll Themes
+iOS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lookingForAJob/digital-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Senior Software Engineer** @ Symantec _(Apr 2016 - Nov 2019)_
 
-### Support or Contact
+iOS
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Senior Software Quality Assurance Engineer - Mobile** @ Symantec _(Jan 2014 - Mar 2016)
+
+iOS / Android 
+
+**Senior Software Quality Assurance Engineer** @ Symantec _(Jul 2012 - Jan 2014)_
+
+Security Technology and Response
+
+**Software Quality Assurance Engineer** @ Symantec _(Feb 2008 - Jul 2012)_
+
+Security Technology and Response
+
+## EDUCATION
+
+**Bachelor of Science** in Computer Science
+<br>
+[UCSD](https://ucsd.edu) - San Diego, CA _(2000 - 2005)_
+
+## Languages
+
+<button class="btn">English</button>
+<button class="btn">Japanese</button>
+
+## Interests
+
+<button class="btn">Accessibility</button>
+<button class="btn">Continuous Integration</button>
+<button class="btn">Continuous Deployment</button>
+<button class="btn">Mob Programming</button>
+<button class="btn">Pair Programming</button>
+<button class="btn">Test Driven Development</button>

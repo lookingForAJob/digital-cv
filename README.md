@@ -15,7 +15,7 @@ _Software engineer with over 5 years of iOS development experience and over 10 y
 
 ## Work Experience
 
-**Senior Software Engineer** @ NortonLifeLock _(Nov 2019 - Mar 2021)_
+### **Senior Software Engineer** @ NortonLifeLock _(Nov 2019 - Mar 2021)_
 
 [Norton 360](https://apps.apple.com/us/app/norton-360/id1278474169) provides Dark Web Monitoring, Device Security, Wi-Fi Security alerts, Secure VPN, and Web Protection. 
 
@@ -31,7 +31,7 @@ _Software engineer with over 5 years of iOS development experience and over 10 y
 - Modernized the UI
 - _**Technologies used:**_ Git, Jenkins, Swift, XCode
 
-**Senior Software Engineer** @ Symantec _(Apr 2016 - Nov 2019)_
+### **Senior Software Engineer** @ Symantec _(Apr 2016 - Nov 2019)_
 
 [Norton Mobile Security](https://us.norton.com/mobile-security-for-ios) (now Norton 360) provides device security, Wi-Fi security alerts, and web protection.
 
@@ -47,7 +47,7 @@ _Software engineer with over 5 years of iOS development experience and over 10 y
 - Maintained shared kits
 - _**Technologies used:**_ Jenkins, Objective-C, Perforce, Swift
 
-**Senior Software Quality Assurance Engineer - Mobile** @ Symantec _(Jan 2014 - Mar 2016)_
+### **Senior Software Quality Assurance Engineer - Mobile** @ Symantec _(Jan 2014 - Mar 2016)_
 
 [Norton Mobile Security](https://support.norton.com/sp/en/us/home/current/solutions/v102512147?client=norton&site=nrtn_en_US) has been EOLed.
 
@@ -60,17 +60,12 @@ _Software engineer with over 5 years of iOS development experience and over 10 y
 - Designed, developed, tested, and deployed the first version of the app to the app store in 60 days
 - _**Technologies used:**_ Git, Jenkins, Swift, XCode
 
-**Senior Software Quality Assurance Engineer** @ Symantec _(Jul 2012 - Jan 2014)_
+### **Senior Software Quality Assurance Engineer / Software Quality Assurance Engineer** @ Symantec _(Feb 2008 - Jan 2014)_
 
 Security Technology and Response is an organization that internally provides common libraries and drivers to the consumer and enterprise product teams like Norton and Symantec Endpoint Protection.
 
 - Designed test plan, created automated tests, and built test tools
 - Broke things and provided root cause analysis
-- _**Technologies used:**_ C++, Perforce, Visual Studios
-
-**Software Quality Assurance Engineer** @ Symantec _(Feb 2008 - Jul 2012)_
-
-- Similar to above, but less experience in testing drivers
 - _**Technologies used:**_ C++, Perforce, Visual Studios
 
 ## Programming Languages

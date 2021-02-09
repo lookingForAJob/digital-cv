@@ -4,7 +4,7 @@
 
 _iOS Developer based in Los Angeles, CA_
 
-_Software engineer with 5 years of iOS development and 13 years of ensuring high quality code that has been well designed, reviewed, tested, and deployed. Seeking for a company and team that is fun, empathetic, and provides value to customers._
+_Software engineer with 5 years of iOS development and 13 years of ensuring high quality code that has been well designed, reviewed, tested, localized, and deployed. Seeking for a company and team that is fun, empathetic, and provides value to customers._
 
 [Email](mailto:ryosuke+job@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ryosuke-onaka-395356205/) / [GitHub](https://github.com/lookingForAJob)
 
@@ -31,23 +31,49 @@ _Software engineer with 5 years of iOS development and 13 years of ensuring high
 
 **Senior Software Engineer** @ NortonLifeLock _(Nov 2019 - Mar 2021)_
 
-iOS
+[Norton 360](https://apps.apple.com/us/app/norton-360/id1278474169) provides Dark Web Monitoring, Device Security, Wi-Fi Security alerts, Secure VPN, and Web Protection. 
+
+- Refactored and revamped onboarding experience to offer in-app purchase of multiple subscription options
+- Built the main dashboard to summarize the most important alerts for users
+- Designed a process for continuous localization
+
+[Norton Ad Blocker](https://apps.apple.com/us/app/norton-ad-blocker/id1045186459) provides unwanted content blocking on Safari or SFSafariViewController.
+
+- Modernized the UI
 
 **Senior Software Engineer** @ Symantec _(Apr 2016 - Nov 2019)_
 
-iOS
+[Norton Mobile Security](https://us.norton.com/mobile-security-for-ios) (now Norton 360) provides device security, Wi-Fi security alerts, and web protection.
+
+- Implemented in-app purchase for a single subscription
+- Developed a white-label app for a global partner
+- Built the Web Protection feature UI and integrated with the on-device VPN extension
+- Designed the architecture to allow a license driven multi-feature app that can have a varying feature set depending on the user entitlement
+
+[Norton Mobile Security](https://support.norton.com/sp/en/us/home/current/solutions/v102512147?client=norton&site=nrtn_en_US) has been EOLed.
+
+- Maintained app until EOL
 
 **Senior Software Quality Assurance Engineer - Mobile** @ Symantec _(Jan 2014 - Mar 2016)_
 
-iOS / Android 
+[Norton Mobile Security](https://support.norton.com/sp/en/us/home/current/solutions/v102512147?client=norton&site=nrtn_en_US) has been EOLed.
+
+- Moved to Agile Development where there was less distinction between software engineers and quality assurance engineers. 
+- Maintained app
+
+[Norton Ad Blocker](https://apps.apple.com/us/app/norton-ad-blocker/id1045186459) provides unwanted content blocking on Safari or SFSafariViewController.
+
+- Designed, developed, tested, and deployed the first version of the app to the app store in 60 days
 
 **Senior Software Quality Assurance Engineer** @ Symantec _(Jul 2012 - Jan 2014)_
+Security Technology and Response is an organization that internally provides common libraries and drivers to the consumer and enterprise product teams like Norton and Symantec Endpoint Protection.
 
-Security Technology and Response
+- Designed test plan, created automated tests, and built test tools
+- Broke things and provided root cause analysis
 
 **Software Quality Assurance Engineer** @ Symantec _(Feb 2008 - Jul 2012)_
 
-Security Technology and Response
+Similar to above, but less experience in testing drivers
 
 ## EDUCATION
 

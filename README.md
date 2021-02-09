@@ -61,6 +61,7 @@ _Software engineer with over 5 years of iOS development experience and over 10 y
 - _**Technologies used:**_ Git, Jenkins, Swift, XCode
 
 **Senior Software Quality Assurance Engineer** @ Symantec _(Jul 2012 - Jan 2014)_
+
 Security Technology and Response is an organization that internally provides common libraries and drivers to the consumer and enterprise product teams like Norton and Symantec Endpoint Protection.
 
 - Designed test plan, created automated tests, and built test tools

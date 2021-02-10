@@ -4,7 +4,7 @@
 
 _iOS Developer based in Los Angeles, CA_
 
-_Software engineer with over 5 years of iOS development experience and over 10 years of ensuring high quality code that has been well designed, reviewed, tested, localized, and deployed. Seeking for a company and team that is fun, empathetic, and provides value to customers. Also looking for a place to grow, learn, and share my mistakes._
+_Software engineer with over 5 years of iOS development experience and over 10 years of ensuring high quality code that has been well designed, reviewed, tested, localized, and deployed. Seeking a company and team that is fun, practices empathy, and provides value to end user customers._
 
 [Email](mailto:ryosuke+job@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ryosuke-onaka-395356205/) / [GitHub](https://github.com/lookingForAJob)
 
@@ -20,22 +20,22 @@ _Software engineer with over 5 years of iOS development experience and over 10 y
 [Norton 360](https://apps.apple.com/us/app/norton-360/id1278474169) provides Dark Web Monitoring, Device Security, Wi-Fi Security alerts, Secure VPN, and Web Protection. 
 
 - Achieved rating of **⭐️⭐️⭐️⭐️4.7** on the app store
-- Refactored and revamped onboarding experience to offer in-app purchase of multiple subscription options
-- Built the main dashboard to summarize the most important alerts for users
-- Designed a process for continuous localization
+- Refactored and revamped onboarding experience to offer in-app purchase of multiple subscription options, increasing sales potential by 300% (2.0 release)
+- Built the main dashboard to summarize the most important alerts for users (1.8 release)
+- Designed a process for continuous localization, contributing to faster and more predictable releases
 - _**Technologies used:**_ Git, Jenkins, Objective-C, RxSwift, Swinject, Swift, XCode 
 
 [Norton Ad Blocker](https://apps.apple.com/us/app/norton-ad-blocker/id1045186459) provides unwanted content blocking on Safari or SFSafariViewController.
 
 - Achieved rating of **⭐️⭐️⭐️⭐️4.6** on the app store
-- Modernized the UI
+- Modernized the UI (1.2 Release)
 - _**Technologies used:**_ Git, Jenkins, Swift, XCode
 
 ### **Senior Software Engineer** @ Symantec _(Apr 2016 - Nov 2019)_
 
 [Norton Mobile Security](https://us.norton.com/mobile-security-for-ios) (now Norton 360) provides device security, Wi-Fi security alerts, and web protection.
 
-- Implemented in-app purchase for a single subscription
+- Created a new revenue stream by implementing the app's first in-app purchase for a single subscription
 - Developed a white-label app for a global partner
 - Built the Web Protection feature UI and integrated with the on-device VPN extension
 - Designed the architecture to allow a license driven multi-feature app that can have a varying feature set depending on the user entitlement
@@ -45,7 +45,7 @@ _Software engineer with over 5 years of iOS development experience and over 10 y
 
 - Maintained app until EOL
 - Maintained shared kits
-- _**Technologies used:**_ Jenkins, Objective-C, Perforce, Swift
+- _**Technologies used:**_ Jenkins, Objective-C, Perforce, Swift, XCode
 
 ### **Senior Software Quality Assurance Engineer - Mobile** @ Symantec _(Jan 2014 - Mar 2016)_
 
@@ -68,6 +68,11 @@ Security Technology and Response is an organization that internally provides com
 - Broke things and provided root cause analysis
 - _**Technologies used:**_ C++, Perforce, Visual Studios
 
+### **Summer Intern** @ Sony _(Jun 2007 - Aug 2007)_
+
+- Prototyped implementation of [AppliCast](https://www.sony.jp/support/tv/i-manual/ex540/jpn/c_briwidgets_use_app.html) (internet widgets) on [BRAVIA](https://www.sony.jp/bravia/) TV
+- _**Technologies used:**_ C++, Python
+
 ## Programming Languages
 
 <button class="btn">Swift</button>
@@ -84,8 +89,8 @@ Security Technology and Response is an organization that internally provides com
 
 ## EDUCATION
 
-**Bachelor of Science** in Computer Science<br>
-[UCSD](https://ucsd.edu) - San Diego, CA _(2000 - 2005)_
+**Bachelor of Science** in Computer Science '05<br>
+[UCSD](https://ucsd.edu) - San Diego, CA
 
 ## Languages
 

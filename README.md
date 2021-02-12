@@ -4,7 +4,7 @@
 
 _iOS Developer based in Los Angeles, CA_
 
-_Software engineer with over 5 years of iOS development experience and over 10 years of ensuring high quality code that has been well designed, reviewed, tested, localized, and deployed. Seeking a company and team that is fun, practices empathy, and provides value to end user customers._
+_Software engineer with over 5 years of iOS development experience and over 10 years of ensuring high quality code that has been well designed, reviewed, tested, localized, and deployed. Seeking a mobile-first company and team that is fun, practices empathy, and provides value to end user customers._
 
 [Email](mailto:ryosuke+job@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ryosuke-onaka-395356205/) / [GitHub](https://github.com/lookingForAJob)
 
